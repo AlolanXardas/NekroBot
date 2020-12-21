@@ -1,0 +1,2 @@
+# NekroBot
+ Bocik NekroSerwerowy
